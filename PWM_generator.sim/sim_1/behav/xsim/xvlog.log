@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/samri/PWM_generator/PWM_generator.srcs/sources_1/new/pwm_generator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pwm_generator
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/samri/PWM_generator/PWM_generator.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
